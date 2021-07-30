@@ -1,6 +1,6 @@
 # Welcome to Github demo. The following topics will be covered in the demo!
 
-### [official reference for Git commands](https://git-scm.com/docs)
+### [Official reference for Git commands](https://git-scm.com/docs)
 - How to invite other users to work on your repository?
    * [Click here for more information](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - How to create branch?
