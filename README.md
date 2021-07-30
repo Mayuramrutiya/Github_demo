@@ -8,3 +8,4 @@
 - How to Switch between branches?
 - How to commit and push to branch?
 - How to create pull request?
+  * A pull request is an event in Git where a contributor asks a maintainer of a Git repository to review code they want to merge into a project.
