@@ -1,4 +1,4 @@
-# Welcome to Github demo. the followings topics will be covered in the demo!
+# Welcome to Github demo. The following topics will be covered in the demo!
 
 - How to invite other users to work on your repository?
 - How to create branch?
