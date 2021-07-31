@@ -8,3 +8,13 @@
   * git checkout "Branch name"
 - How to create pull request?
   * A pull request is an event in Git where a contributor asks a maintainer of a Git repository to review code they want to merge into a project. [Click here for more information](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+
+
+Workflow for git:
+==============================
+1) always do "git pull" first.
+2) checkout to appropriate branch.
+3) make your chnages.
+4) commit and push the changes.
+5) create pull request to merge to main branch.
+6) delete branch if not needed.
