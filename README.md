@@ -14,7 +14,7 @@ Workflow for git:
 ==============================
 1) always do "git pull" first.
 2) checkout to appropriate branch.
-3) make your chnages.
+3) make your changes.
 4) commit and push the changes.
 5) create pull request to merge to main branch.
 6) delete branch if not needed.
